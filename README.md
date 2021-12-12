@@ -30,6 +30,7 @@ This models classify the sleep stage to the person based on his brain`s signal
 - Calculating 8 feature then we get  ( 1428 * 8 ) for the single person 
 - Like I said before at any epoch the 2 channels have the exact sleep stage or **label** then I duplicated it
 
-### ![image-20211212161934594](C:\Users\SkawY\AppData\Roaming\Typora\typora-user-images\image-20211212161934594.png)
+### ![labels](E:\Faculty\FCAI\4th Year\First Semester\BCI\Assignments\Assignment 2\Github Version\MNE-Classification\Images\labels.jpg)
 
 now I am having features and labels for any person then I can train any model and predict the sleep stage of any epoch
+
